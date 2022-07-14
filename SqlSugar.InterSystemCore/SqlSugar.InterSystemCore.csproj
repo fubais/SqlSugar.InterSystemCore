@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors></Authors>
+    <Company />
+    <Copyright>fubais</Copyright>
+    <Version>1.0.2</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="InterSystem\SqlBuilder\新文件夹\**" />
+    <EmbeddedResource Remove="InterSystem\SqlBuilder\新文件夹\**" />
+    <None Remove="InterSystem\SqlBuilder\新文件夹\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SqlSugar\SqlSugar.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="InterSystems.Data.IRISClient">
+      <HintPath>..\..\dist\InterSystems.Data.IRISClient.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

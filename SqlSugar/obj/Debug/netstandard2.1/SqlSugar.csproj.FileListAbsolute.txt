@@ -1,0 +1,10 @@
+E:\MyPro\ORM.Demonstration\SqlSugar.InterSystemCore\SqlSugar\bin\Debug\netstandard2.1\SqlSugar.deps.json
+E:\MyPro\ORM.Demonstration\SqlSugar.InterSystemCore\SqlSugar\bin\Debug\netstandard2.1\SqlSugar.dll
+E:\MyPro\ORM.Demonstration\SqlSugar.InterSystemCore\SqlSugar\bin\Debug\netstandard2.1\SqlSugar.pdb
+E:\MyPro\ORM.Demonstration\SqlSugar.InterSystemCore\SqlSugar\obj\Debug\netstandard2.1\SqlSugar.csproj.AssemblyReference.cache
+E:\MyPro\ORM.Demonstration\SqlSugar.InterSystemCore\SqlSugar\obj\Debug\netstandard2.1\SqlSugar.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyPro\ORM.Demonstration\SqlSugar.InterSystemCore\SqlSugar\obj\Debug\netstandard2.1\SqlSugar.AssemblyInfoInputs.cache
+E:\MyPro\ORM.Demonstration\SqlSugar.InterSystemCore\SqlSugar\obj\Debug\netstandard2.1\SqlSugar.AssemblyInfo.cs
+E:\MyPro\ORM.Demonstration\SqlSugar.InterSystemCore\SqlSugar\obj\Debug\netstandard2.1\SqlSugar.csproj.CoreCompileInputs.cache
+E:\MyPro\ORM.Demonstration\SqlSugar.InterSystemCore\SqlSugar\obj\Debug\netstandard2.1\SqlSugar.dll
+E:\MyPro\ORM.Demonstration\SqlSugar.InterSystemCore\SqlSugar\obj\Debug\netstandard2.1\SqlSugar.pdb

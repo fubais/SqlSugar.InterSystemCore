@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\GitHub\\SqlSugar.InterSystemCore\\SqlSugar\\SqlSugar.csproj": {}
+  },
+  "projects": {
+    "E:\\GitHub\\SqlSugar.InterSystemCore\\SqlSugar\\SqlSugar.csproj": {
+      "version": "5.0.9.1",
+      "restore": {
+        "projectUniqueName": "E:\\GitHub\\SqlSugar.InterSystemCore\\SqlSugar\\SqlSugar.csproj",
+        "projectName": "SqlSugar",
+        "projectPath": "E:\\GitHub\\SqlSugar.InterSystemCore\\SqlSugar\\SqlSugar.csproj",
+        "packagesPath": "C:\\Users\\DELL-PC\\.nuget\\packages\\",
+        "outputPath": "E:\\GitHub\\SqlSugar.InterSystemCore\\SqlSugar\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.1, )"
+            },
+            "Oscar.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            },
+            "SqlSugarCore.Dm": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "SqlSugarCore.Kdbndp": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Reflection.Emit.Lightweight": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
